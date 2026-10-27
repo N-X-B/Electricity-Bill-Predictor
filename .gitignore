@@ -71,3 +71,4 @@ results/*
 !results/model_comparison.csv
 !results/model_comparison.json
 !results/future_forecast.csv
+!results/technical_report.pdf
