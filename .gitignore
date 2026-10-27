@@ -70,3 +70,4 @@ results/*
 !results/test_predictions.csv
 !results/model_comparison.csv
 !results/model_comparison.json
+!results/future_forecast.csv
