@@ -61,6 +61,7 @@ data/*
 models/*
 !models/.gitkeep
 
-# Experiment logs / temporary outputs (keep results directory tracked via .gitkeep)
+# Experiment logs / temporary outputs (keep results directory and key charts tracked)
 results/*
 !results/.gitkeep
+!results/*.png
