@@ -61,8 +61,10 @@ data/*
 # Saved Models / Checkpoints
 models/*
 !models/.gitkeep
+!models/*.joblib
 
 # Experiment logs / temporary outputs (keep results directory and key charts tracked)
 results/*
 !results/.gitkeep
 !results/*.png
+!results/test_predictions.csv
