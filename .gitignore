@@ -55,6 +55,7 @@ Thumbs.db
 # Large Data files (Dataset: household_power_consumption.txt / zip)
 data/*
 !data/.gitkeep
+!data/daily_electricity_consumption.csv
 
 # Saved Models / Checkpoints
 models/*
