@@ -1,0 +1,3 @@
+Model,Train_MAE,Test_MAE,Train_RMSE,Test_RMSE,Train_R2,Test_R2,Test_Max_Error
+Linear Regression,5.3422,4.0539,7.1313,5.5803,0.5213,0.4166,24.9841
+Decision Tree Regressor,4.7922,4.181,6.3973,5.7524,0.6148,0.3801,23.8664

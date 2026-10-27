@@ -68,3 +68,5 @@ results/*
 !results/.gitkeep
 !results/*.png
 !results/test_predictions.csv
+!results/model_comparison.csv
+!results/model_comparison.json

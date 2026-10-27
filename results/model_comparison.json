@@ -1,0 +1,22 @@
+[
+    {
+        "Model": "Linear Regression",
+        "Train_MAE": 5.3422,
+        "Test_MAE": 4.0539,
+        "Train_RMSE": 7.1313,
+        "Test_RMSE": 5.5803,
+        "Train_R2": 0.5213,
+        "Test_R2": 0.4166,
+        "Test_Max_Error": 24.9841
+    },
+    {
+        "Model": "Decision Tree Regressor",
+        "Train_MAE": 4.7922,
+        "Test_MAE": 4.181,
+        "Train_RMSE": 6.3973,
+        "Test_RMSE": 5.7524,
+        "Train_R2": 0.6148,
+        "Test_R2": 0.3801,
+        "Test_Max_Error": 23.8664
+    }
+]
